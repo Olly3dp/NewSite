@@ -65,12 +65,12 @@ img{
 
 .btn{
     display: inline-block;
-    background-image: url(https://www.intermidias.com.br/wp-content/uploads/2023/03/fluxograma-de-vendas-capa.jpg);
+    background color: 
     color: rgb(245, 97, 97);
     padding: 0.8 1.8;
     margin-top: 2em;
     cursor: default;
-    border-radius: 10px;
+    border-radius: 0px;
 
 }
 
